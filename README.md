@@ -27,11 +27,6 @@ Mental health is an essential part of overall well-being. WellMinds serves as an
 - **HTML**
 - **CSS**
 
----
-
-## 🚀 Live Website
-
-🔗 https://dheerendra69.github.io/Wellminds/
 
 ---
 
